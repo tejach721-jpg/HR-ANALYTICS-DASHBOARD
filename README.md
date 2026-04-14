@@ -15,7 +15,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 - Filters for country and city
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+(https://github.com/tejach721-jpg/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202026-04-14%20130517.png)
 
 ## 📁 Files
 - HR_Analytics_Dashboard.pbix
